@@ -4,7 +4,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cyear&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyear&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=cyear)-->
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyear&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=cyear)
+</p>
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyear&layout=compact)-->
 
 ## 白日梦 
