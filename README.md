@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyear&theme=radical)](https://github-readme-stats.vercel.app/api?username=cyear)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyear&theme=radical)](https://github-readme-stats.vercel.app/api?username=cyear&show_icons=true)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cyear&theme=react-dark&color=#ffffff)](https://github-readme-activity-graph.cyclic.app/graph?username=cyear&theme=react-dark&color=#ffffff)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyear&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=cyear&layout=compact)
 
 ## 白日梦
 
