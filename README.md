@@ -1,5 +1,7 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyear&theme=dlgithub-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyear&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=cyear)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyear&theme=dlgithub-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
