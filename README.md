@@ -1,5 +1,5 @@
-### 🧊🍥🍞
-
+### 🧊🍥🍞 
+# 
 <!--
 **cyear/cyear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyear&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=cyear)
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cyear&theme=react-dark&color=#ffffff)](https://github-readme-activity-graph.cyclic.app/graph?username=cyear&theme=react-dark&color=#ffffff)-->
-
-## 白日梦
-
+## 白日梦 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-192133?style=flat-square&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=linux&logoColor=white)
