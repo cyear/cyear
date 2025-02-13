@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cyear&show_icons=true&theme=transparent" />
 </p>
 
+![](https://raw.githubusercontent.com/cyear/cyear/main/dist/github-contribution-grid-snake.svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyear&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cyear&theme=onedark&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
